@@ -1,17 +1,18 @@
 <div align="center">
 
-# YueJia Li 👋
+# Hi, I'm YueJia Li 👋
 
-### AI Researcher · Founder of Liora · Undergraduate at Wuhan University
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Researcher+in+Agents+and+World+Models;Founder+of+Liora;OpenClaw+Contributor;Undergraduate+at+Wuhan+University;Building+where+research+meets+product" alt="Typing animation" />
 
 <p>
   <a href="https://github.com/Kemalau"><img src="https://img.shields.io/badge/GitHub-Kemalau-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Wuhan%2C%20China-0A66C2?style=for-the-badge" alt="Location" />
+  <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/OpenClaw-Contributor-0A66C2?style=for-the-badge" alt="OpenClaw Contributor" /></a>
+  <img src="https://img.shields.io/badge/Location-Wuhan%2C%20China-6A5ACD?style=for-the-badge" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=Kemalau&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
 <p>
-  <b>Agents</b> · <b>World Models</b> · <b>Multi-Agent Systems</b> · <b>AI Products</b>
+  <b>Agents</b> · <b>World Models</b> · <b>Multi-Agent Systems</b> · <b>Open Source</b>
 </p>
 
 </div>
@@ -20,8 +21,9 @@
 
 ## About Me
 
-- 🤖 I work on **AI agents**, **world models**, and **efficient multi-agent collaboration**.
+- 🤖 I focus on **AI agents**, **world models**, and **communication-efficient multi-agent systems**.
 - 🚀 I’m building research-driven ideas and products at **Liora**.
+- 🦞 I’m an **open-source contributor to OpenClaw**, with public PRs across product and engineering work.
 - 🎓 I’m an undergraduate at **Wuhan University** (**Hongyi Honor Class**).
 - 🛠️ I enjoy turning ambitious research ideas into useful systems and developer tools.
 
@@ -31,6 +33,12 @@
 - World models and embodied intelligence
 - Communication-efficient multi-agent collaboration
 - Applied AI products and coding agents
+
+## Open Source
+
+- Contributor to [`openclaw/openclaw`](https://github.com/openclaw/openclaw)
+- Interested in developer tools, agent infrastructure, and product-facing AI systems
+- Enjoy shipping fixes, integrations, and practical improvements in real codebases
 
 ## Featured Projects
 
@@ -72,6 +80,7 @@
 ## Contact
 
 - GitHub: [`@Kemalau`](https://github.com/Kemalau)
+- Open source: [`openclaw/openclaw`](https://github.com/openclaw/openclaw)
 - Organization / School: **Wuhan University**
 - Location: **Wuhan, China**
 - Email: `202430211194@whu.edu.cn`
