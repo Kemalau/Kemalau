@@ -36,30 +36,18 @@
 - Applied AI products and coding agents
 - Computer architecture and systems implementation
 
-## Featured Work
+## 🚀 Projects
 
-### Personal Projects
-
-| Project | What it is | Stack |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [`Codeshift`](https://github.com/Kemalau/Codeshift) | Lightweight coding agent with repo maps and dependency-aware Python type-hint migration. | `Python` · `Agent Systems` · `Developer Tools` |
-| [`LatentCompress-A-protocol-for-high-compressed-agent-communication`](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication) | Research exploration of high-compression communication protocols for agents. | `Python` · `Multi-Agent Systems` · `Research` |
-| [`CPU2026spring`](https://github.com/Kemalau/CPU2026spring) | A **5-stage pipelined CPU** running at **0.05 GHz**, built as a computer architecture and digital systems project. | `Verilog` · `Computer Architecture` · `Pipeline CPU` |
-
-### Open Source Contributions
-
-| Project | What it is | Stack |
-|---|---|---|
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | Open-source personal AI assistant platform where I contribute fixes and practical product improvements. | `TypeScript` · `AI Product` · `Open Source` |
-
-### Organization Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [`billion-token-one-task/ClawOSS`](https://github.com/billion-token-one-task/ClawOSS) | OpenClaw modifications that enable autonomous PR making, judging, submission, and follow-up with a single agent. | `Swift` · `Agents` · `Automation` |
-| [`billion-token-one-task/Codex_testing_bench`](https://github.com/billion-token-one-task/Codex_testing_bench) | Systematic investigations and research conclusions into Codex harness patterns. | `Rust` · `Evaluation` · `Agent Tooling` |
-| [`billion-token-one-task/Deepgraph`](https://github.com/billion-token-one-task/Deepgraph) | Graph-oriented exploration project for deeper research workflows and structured reasoning. | `Python` · `Research Systems` |
-| [`billion-token-one-task/tokenmart`](https://github.com/billion-token-one-task/tokenmart) | Experimental project in the billion-token ecosystem. | `TypeScript` · `Product Prototyping` |
+| **[`Codeshift`](https://github.com/Kemalau/Codeshift)** | **Lightweight Coding Agent**<br/>A repo-aware coding agent with dependency-aware Python type-hint migration and developer workflow support. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-7C3AED?style=flat-square) ![DevTools](https://img.shields.io/badge/DevTools-2563EB?style=flat-square) |
+| **[`LatentCompress`](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication)** | **High-Compression Agent Communication**<br/>A research project exploring compressed communication protocols for efficient multi-agent collaboration. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MultiAgent](https://img.shields.io/badge/MultiAgent-EC4899?style=flat-square) ![Research](https://img.shields.io/badge/Research-DC2626?style=flat-square) |
+| **[`CPU2026spring`](https://github.com/Kemalau/CPU2026spring)** | **5-Stage Pipelined CPU**<br/>A digital systems project implementing a **5-stage pipelined CPU** running at **0.05 GHz**. | ![Verilog](https://img.shields.io/badge/Verilog-6A5ACD?style=flat-square) ![CPU](https://img.shields.io/badge/Pipeline%20CPU-EA580C?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-DC2626?style=flat-square) |
+| **[`openclaw/openclaw`](https://github.com/openclaw/openclaw)** | **Open Source AI Assistant Contribution**<br/>Contributing fixes and practical product improvements to the OpenClaw AI assistant ecosystem. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![OpenSource](https://img.shields.io/badge/Open%20Source-0F766E?style=flat-square) ![AIProduct](https://img.shields.io/badge/AI%20Product-8B5CF6?style=flat-square) |
+| **[`ClawOSS`](https://github.com/billion-token-one-task/ClawOSS)** | **Autonomous PR Workflow on OpenClaw**<br/>Modifications to OpenClaw that enable one agent to make, judge, submit, and follow up pull requests autonomously. | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-7C3AED?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-2563EB?style=flat-square) |
+| **[`Codex_testing_bench`](https://github.com/billion-token-one-task/Codex_testing_bench)** | **Codex Harness Investigation**<br/>Systematic investigations and research conclusions into Codex harness patterns and evaluation behavior. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Evaluation](https://img.shields.io/badge/Evaluation-4B5563?style=flat-square) ![Tooling](https://img.shields.io/badge/Agent%20Tooling-0EA5E9?style=flat-square) |
+| **[`Deepgraph`](https://github.com/billion-token-one-task/Deepgraph)** | **Graph-Oriented Research Workflow**<br/>An exploratory project for structured reasoning, graph-based workflows, and research system design. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Graphs](https://img.shields.io/badge/Graphs-16A34A?style=flat-square) ![ResearchSystems](https://img.shields.io/badge/Research%20Systems-DC2626?style=flat-square) |
+| **[`tokenmart`](https://github.com/billion-token-one-task/tokenmart)** | **Experimental Product Prototype**<br/>An experimental project in the billion-token ecosystem focused on product prototyping and system exploration. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prototype](https://img.shields.io/badge/Prototype-F59E0B?style=flat-square) ![Product](https://img.shields.io/badge/Product-8B5CF6?style=flat-square) |
 
 ## Tech Stack
 
