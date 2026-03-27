@@ -40,49 +40,26 @@
 
 ### Personal Projects
 
-#### [`Codeshift`](https://github.com/Kemalau/Codeshift)
-> Lightweight coding agent with repo maps and dependency-aware Python type-hint migration.
-
-`Python` `Agent Systems` `Developer Tools`
-
-#### [`LatentCompress-A-protocol-for-high-compressed-agent-communication`](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication)
-> Research exploration of high-compression communication protocols for agents.
-
-`Python` `Multi-Agent Systems` `Research`
-
-#### [`CPU2026spring`](https://github.com/Kemalau/CPU2026spring)
-> A **5-stage pipelined CPU** running at **0.05 GHz**, built as a computer architecture and digital systems project.
-
-`Verilog` `Computer Architecture` `Pipeline CPU`
+| Project | What it is | Stack |
+|---|---|---|
+| [`Codeshift`](https://github.com/Kemalau/Codeshift) | Lightweight coding agent with repo maps and dependency-aware Python type-hint migration. | `Python` · `Agent Systems` · `Developer Tools` |
+| [`LatentCompress-A-protocol-for-high-compressed-agent-communication`](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication) | Research exploration of high-compression communication protocols for agents. | `Python` · `Multi-Agent Systems` · `Research` |
+| [`CPU2026spring`](https://github.com/Kemalau/CPU2026spring) | A **5-stage pipelined CPU** running at **0.05 GHz**, built as a computer architecture and digital systems project. | `Verilog` · `Computer Architecture` · `Pipeline CPU` |
 
 ### Open Source Contributions
 
-#### [`openclaw/openclaw`](https://github.com/openclaw/openclaw)
-> Open-source personal AI assistant platform where I contribute fixes and practical product improvements.
-
-`TypeScript` `AI Product` `Open Source`
+| Project | What it is | Stack |
+|---|---|---|
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | Open-source personal AI assistant platform where I contribute fixes and practical product improvements. | `TypeScript` · `AI Product` · `Open Source` |
 
 ### Organization Projects
 
-#### [`billion-token-one-task/ClawOSS`](https://github.com/billion-token-one-task/ClawOSS)
-> OpenClaw modifications that enable autonomous PR making, judging, submission, and follow-up with a single agent.
-
-`Swift` `Agents` `Automation`
-
-#### [`billion-token-one-task/Codex_testing_bench`](https://github.com/billion-token-one-task/Codex_testing_bench)
-> Systematic investigations and research conclusions into Codex harness patterns.
-
-`Rust` `Evaluation` `Agent Tooling`
-
-#### [`billion-token-one-task/Deepgraph`](https://github.com/billion-token-one-task/Deepgraph)
-> Graph-oriented exploration project for deeper research workflows and structured reasoning.
-
-`Python` `Research Systems`
-
-#### [`billion-token-one-task/tokenmart`](https://github.com/billion-token-one-task/tokenmart)
-> Experimental project in the billion-token ecosystem.
-
-`TypeScript` `Product Prototyping`
+| Project | What it is | Stack |
+|---|---|---|
+| [`billion-token-one-task/ClawOSS`](https://github.com/billion-token-one-task/ClawOSS) | OpenClaw modifications that enable autonomous PR making, judging, submission, and follow-up with a single agent. | `Swift` · `Agents` · `Automation` |
+| [`billion-token-one-task/Codex_testing_bench`](https://github.com/billion-token-one-task/Codex_testing_bench) | Systematic investigations and research conclusions into Codex harness patterns. | `Rust` · `Evaluation` · `Agent Tooling` |
+| [`billion-token-one-task/Deepgraph`](https://github.com/billion-token-one-task/Deepgraph) | Graph-oriented exploration project for deeper research workflows and structured reasoning. | `Python` · `Research Systems` |
+| [`billion-token-one-task/tokenmart`](https://github.com/billion-token-one-task/tokenmart) | Experimental project in the billion-token ecosystem. | `TypeScript` · `Product Prototyping` |
 
 ## Tech Stack
 
