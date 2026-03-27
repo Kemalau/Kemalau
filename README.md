@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <b>Agents</b> · <b>World Models</b> · <b>Multi-Agent Systems</b> · <b>Open Source</b>
+  <b>Agents</b> · <b>World Models</b> · <b>Systems</b> · <b>Open Source</b>
 </p>
 
 </div>
@@ -34,17 +34,17 @@
 - World models and embodied intelligence
 - Communication-efficient multi-agent collaboration
 - Applied AI products and coding agents
+- Computer architecture and systems implementation
 
-## Project Showcase
+## Featured Work
 
 ### Personal Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [`Codeshift`](https://github.com/Kemalau/Codeshift) | Lightweight coding agent with repo maps and dependency-aware Python type-hint migration. | `Python` · `Agent Systems` |
-| [`LatentCompress-A-protocol-for-high-compressed-agent-communication`](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication) | Research exploration of high-compression communication protocols for agents. | `Python` · `Multi-Agent Systems` |
-| [`xiaozhi-client`](https://github.com/Kemalau/xiaozhi-client) | AI client project currently focused on MCP integration. | `TypeScript` · `MCP` |
-| [`TransReID`](https://github.com/Kemalau/TransReID) | Research-oriented repository for representation and identification tasks. | `Research` · `Computer Vision` |
+| [`Codeshift`](https://github.com/Kemalau/Codeshift) | Lightweight coding agent with repo maps and dependency-aware Python type-hint migration. | `Python` · `Agent Systems` · `Developer Tools` |
+| [`LatentCompress-A-protocol-for-high-compressed-agent-communication`](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication) | Research exploration of high-compression communication protocols for agents. | `Python` · `Multi-Agent Systems` · `Research` |
+| [`CPU2026spring`](https://github.com/Kemalau/CPU2026spring) | A **5-stage pipelined CPU** design running at **0.05 GHz**, built as a computer architecture and digital systems project. | `Verilog` · `Computer Architecture` · `Pipeline CPU` |
 
 ### Open Source Contributions
 
@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/World%20Models-0F766E?style=flat-square" alt="World Models" />
   <img src="https://img.shields.io/badge/MCP-0F766E?style=flat-square" alt="MCP" />
   <img src="https://img.shields.io/badge/Developer%20Tools-7C3AED?style=flat-square" alt="Developer Tools" />
-  <img src="https://img.shields.io/badge/Research%20Prototyping-DC2626?style=flat-square" alt="Research Prototyping" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-DC2626?style=flat-square" alt="Computer Architecture" />
 </p>
 
 ## GitHub Stats
