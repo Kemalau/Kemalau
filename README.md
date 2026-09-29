@@ -10,7 +10,7 @@ Undergraduate researcher in Computer Science and Technology (Hongyi Honor Class)
 
 ## About me
 
-My research interests are **representation learning**, **explainable AI**, **AI for social science**, and **multimodal learning**. I work with Prof. Mang Ye at Wuhan University. In summer 2026, I completed a research internship at Microsoft Research Asia, mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). I am also a co-founder and technical lead of [Synesis AI](http://synesis.cn).
+My research interests are **representation learning**, **explainable AI**, **responsible AI**, and **multimodal learning**. I work with Prof. Mang Ye at Wuhan University. In summer 2026, I completed a research internship at Microsoft Research Asia, mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). I am also a co-founder and technical lead of [Synesis AI](http://synesis.cn).
 
 ## Publications and research
 
