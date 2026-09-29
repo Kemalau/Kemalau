@@ -27,7 +27,7 @@ My research interests are **representation learning**, **explainable AI**, **AI 
 | [ClawOSS](https://github.com/billion-token-one-task/ClawOSS) | Agent for open-source repository maintenance, from issue selection through pull request follow-up. |
 | [Codeshift](https://github.com/Kemalau/Codeshift) | Lightweight coding agent with repository maps and dependency-aware Python type-hint migration. |
 
-Other public work: [LatentCompress](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication), [CPU2026spring](https://github.com/Kemalau/CPU2026spring), and [Codex_testing_bench](https://github.com/billion-token-one-task/Codex_testing_bench). I also contribute to [OpenClaw](https://github.com/openclaw/openclaw).
+Other public work: [LatentCompress](https://github.com/Kemalau/LatentCompress-A-protocol-for-high-compressed-agent-communication) and [CPU2026spring](https://github.com/Kemalau/CPU2026spring). I also contribute to [OpenClaw](https://github.com/openclaw/openclaw).
 
 ## Contact
 
