@@ -4,7 +4,7 @@
 
 Undergraduate researcher in Computer Science and Technology (Hongyi Honor Class) at Wuhan University.
 
-[Academic homepage](https://kemalau.github.io/) · [CV](https://kemalau.github.io/files/Li_Yuejia_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=p9oPgT0AAAAJ) · [Email](mailto:2024302111194@whu.edu.cn)
+[Academic homepage](https://kemalau.github.io/) · [CV](https://kemalau.github.io/files/Li_Yuejia_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=p9oPgT0AAAAJ) · [Email](mailto:liyuejia@whu.edu.cn)
 
 </div>
 
@@ -31,4 +31,4 @@ Other public work: [LatentCompress](https://github.com/Kemalau/LatentCompress-A-
 
 ## Contact
 
-Email: [2024302111194@whu.edu.cn](mailto:2024302111194@whu.edu.cn) · [Academic homepage](https://kemalau.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=p9oPgT0AAAAJ)
+Email: [liyuejia@whu.edu.cn](mailto:liyuejia@whu.edu.cn) · [Academic homepage](https://kemalau.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=p9oPgT0AAAAJ)
