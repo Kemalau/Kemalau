@@ -15,7 +15,7 @@ My research interests are **representation learning**, **explainable AI**, **AI 
 ## Publications and research
 
 - **Cross-Species Animal Re-Identification with Semantic Consistency Learning** — ECCV 2026, equal contribution. [Paper](https://arxiv.org/abs/2609.09705) · [Code](https://github.com/Kemalau/ECCV-26-SCL)
-- **See Before You Code: Learning Visual Priors for Spatially Aware Educational Animation Generation** — arXiv 2026, equal contribution. [Paper](https://arxiv.org/abs/2605.15585) · [Code](https://github.com/AI4Learning-Club/OmniManim)
+- **See Before You Code: Learning Visual Priors for Spatially Aware Educational Animation Generation** — arXiv 2026. [Paper](https://arxiv.org/abs/2605.15585) · [Code](https://github.com/AI4Learning-Club/OmniManim)
 - **FedDiG: Federated Continual Graph Learning with Disentangled Generative Replay** — under review.
 
 ## Selected projects
