@@ -23,7 +23,7 @@ My research interests are **representation learning**, **explainable AI**, **res
 | Project | What it does |
 | --- | --- |
 | [Synesis AI](http://synesis.cn) | AI-assisted learning products and multimodal teaching tools; co-founder and technical lead. |
-| [DeepGraph](https://github.com/billion-token-one-task/Deepgraph) | Research agent for literature discovery, proposal generation, experiment planning, and code execution. |
+| [DeepGraph](https://github.com/billion-token-one-task/Deepgraph) [![GitHub stars](https://img.shields.io/github/stars/billion-token-one-task/Deepgraph?style=flat-square)](https://github.com/billion-token-one-task/Deepgraph) | Research agent for literature discovery, proposal generation, experiment planning, and code execution. |
 | [ClawOSS](https://github.com/billion-token-one-task/ClawOSS) | Agent for open-source repository maintenance, from issue selection through pull request follow-up. |
 | [Codeshift](https://github.com/Kemalau/Codeshift) | Lightweight coding agent with repository maps and dependency-aware Python type-hint migration. |
 
